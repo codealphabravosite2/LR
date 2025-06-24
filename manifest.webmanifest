@@ -1,12 +1,12 @@
 {
-  "name": "StoryboardPro",
-  "short_name": "StoryboardPro",
-  "description": "A powerful storyboarding app",
+  "name": "LogReel Pro",
+  "short_name": "LogReel",
+  "description": "LogReel Pro",
   "start_url": "./index.html",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#f8fafc",
-  "theme_color": "#f8fafc",
+  "background_color": "#F9FAFB",
+  "theme_color": "#3B82F6",
   "orientation": "natural",
   "categories": ["productivity", "utilities"],
   "icons": [
