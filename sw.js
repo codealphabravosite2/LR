@@ -1,6 +1,6 @@
 // --- START OF FILE sw.js ---
 
-const VERSION = '1.0.0'; // Updated version for LogReel Pro
+const VERSION = '1.0.1'; // Updated version for LogReel Pro
 const APP_PREFIX = 'logreelpro'; // Unique prefix for this app's caches
 const CACHE_NAME = `${APP_PREFIX}-cache-${VERSION}`;
 
